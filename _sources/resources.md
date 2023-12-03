@@ -1,4 +1,3 @@
 # Resources
 
-## Github Repositories
-https://github.com/clint-bg
+- Github Repositories: https://github.com/clint-bg
