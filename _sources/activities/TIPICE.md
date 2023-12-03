@@ -1,0 +1,2 @@
+# TIPICE
+The Theory Into Practice in Chemical Engineering (TIPICE) is the group responsible for ensuring the quality and reproducibility of the undergraduate laboratory exercises in the BYU Chemical Engineering Department. Clint Guymon together with Rubin McDougal and student employees together with the BYU Chemical Engineering faculty and staff work together to accomplish the groups mission. For more information, please see the [TIPICE website](https://tipice.byu.edu/).
