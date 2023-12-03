@@ -10,3 +10,9 @@ parts:
     - file: activities/CoursesTaught
     - file: activities/Publications
     - file: activities/TIPICE
+  - caption: Resources
+    chapters:
+    - file: resources
+  - caption: Links
+    chapters:
+    - file: links
