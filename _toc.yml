@@ -4,15 +4,9 @@
 format: jb-book
 root: intro
 parts: 
-  - caption: Clint Guymon
+  - caption: Activities
     chapters:
-    - file: ehse/
-    - file: ehse/Health
-    - file: ehse/Safety
-      sections:
-      - file: ehse/safety/PSM
-      - file: ehse/safety/Explosions
-    - file: ehse/Ethics
-  - caption: UO Lab
-    chapters:
-    - file: tipice/Statistics
+    - file: activities/Community
+    - file: activities/CoursesTaught
+    - file: activities/Publications
+    - file: activities/TIPICE
