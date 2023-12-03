@@ -4,9 +4,9 @@
 format: jb-book
 root: intro
 parts: 
-  - caption: EH&S and Ethics
+  - caption: Clint Guymon
     chapters:
-    - file: ehse/Environment
+    - file: ehse/
     - file: ehse/Health
     - file: ehse/Safety
       sections:

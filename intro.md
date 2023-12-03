@@ -1,11 +1,6 @@
-# Welcome to your Jupyter Book
+# Clint Guymon
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Clint Guymon is an associate teaching professor in the Chemical Engineering Department at Brigham Young University. He received his doctorate degree in chemical engineering at Brigham Young University. His doctoral thesis was on molecular dynamics simulation and experimental studies on copper electrodeposition (see [https://scholarsarchive.byu.edu/etd/333/](https://scholarsarchive.byu.edu/etd/333/)). He subsequently worked at Intel as a process engineer at Intel and then at Safety Management Services as an engineering consultant. A brief summary of some of his work experience is given at this site and can be found here: [https://www.clintguymon.dev/](https://www.clintguymon.dev/).
 
 ```{tableofcontents}
 ```
