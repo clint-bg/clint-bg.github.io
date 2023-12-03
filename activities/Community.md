@@ -15,3 +15,6 @@ The American Institute of Chemical Engineers (AIChE) is a professional associati
 
 ## Local Schools
 I have worked with local schools such as the McGillis School in helping to educate future engineers.
+
+## BYU Chemical Engineering Department
+I get to mentor the ChemE Car club team. I'm also the safety representative for the department.
