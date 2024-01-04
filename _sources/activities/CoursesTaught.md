@@ -9,4 +9,4 @@ Unit Operation Laboratories
 
 Lecture Courses
 - [ChEn 263: Computation Tools](https://clint-bg.github.io/comptools/intro.html)
-- ChEn 311: Chemical Engineering and Society-Health, Safety, and the Environment
+- [ChEn 311: Chemical Engineering and Society-Health, Safety, and the Environment](https://clint-bg.github.io/safetyinjc/intro.html)
