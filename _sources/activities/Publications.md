@@ -3,7 +3,7 @@
 ## 2024
 <a href="https://peer.asee.org/climate-change-and-kinetics-in-an-undergraduate-laboratory-injection-and-tracking-of-co2-in-a-7-gallon-terrarium"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/ASEE24.png?raw=true' width="700"></a>
 
-- Guymon, C., & Tuft, J. R. (2024, June), Climate Change and Kinetics in an Undergraduate Laboratory: Injection and Tracking of CO2 in a 7 Gallon Terrarium Paper presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. 10.18260/1-2--48465
+- Guymon, C., & Tuft, J. R. (2024, June), Climate Change and Kinetics in an Undergraduate Laboratory: Injection and Tracking of CO2 in a 7 Gallon Terrarium Paper presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. [Web Link](https://doi.org/10.18260/1-2--48465)
 
 ## 2023
 <a href="https://www.mdpi.com/2448468/"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/fireimg.png?raw=true' width="700"></a>
@@ -17,10 +17,10 @@ See [Google Scholar](https://scholar.google.com/citations?user=p_83EnoAAAAJ&hl=e
 ## 2025
 - Nathaniel Adams and Clint Guymon (2025, February), "Hazard Division 1.3 Overpressure Modeling," UCUR (Utah Conference on Undergraduate Research), Southern Utah University, Cedar City, Utah.
 - Clint Guymon (2025, February), "Examples and Student Perceptions in AI-Augmented Technical Writing," 9th Annual Intermountain
-Teaching for Learning (T4L) Conference, Utah Valley University, Orem, Utah. (https://clint-bg.github.io/AITechnicalWriting/)
+Teaching for Learning (T4L) Conference, Utah Valley University, Orem, Utah. [Web Link](https://clint-bg.github.io/AITechnicalWriting/)
 
 ## 2024
-- Joseph Tuft and Clint Guymon  (2024, June), Climate Change and Kinetics in an Undergraduate Laboratory: Injection and Tracking of CO2 in a 7 Gallon Terrarium Paper presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. https://doi.org/10.18260/1-2--48465
+- Joseph Tuft and Clint Guymon  (2024, June), Climate Change and Kinetics in an Undergraduate Laboratory: Injection and Tracking of CO2 in a 7 Gallon Terrarium Paper presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. [Web Link](https://doi.org/10.18260/1-2--48465)
 - Nathaniel Adams and Clint Guymon (2024, October), "HD1.3 Overpressure Modeling," 16th Annual Explosives Testing Users Group (ETUG) Conference, Salt Lake City, Utah.
 - Gregory Lakis and Clint Guymon (2024, October), "Measured and Predicted Propellant Drum Ignition Times as a Function of Heat Flux," 16th Annual Explosives Testing Users Group (ETUG) Conference, Salt Lake City, Utah.
 
