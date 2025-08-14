@@ -4,7 +4,7 @@
 
 <a href="https://journals.flvc.org/cee/article/view/137141"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/CEE.png?raw=true' width="700"></a>
 
-- Guymon, C., Huff, L. & Lewis, S. L. Factors Influencing Graduating Senior Chemical Engineering Job Offers: Insights From 12-Years of Pre-Graduation Surveys, Chemical Engineering Education Journal, Vol. 59 No. 3 Summer 2025. [Web Link](https://doi.org/10.18260/2-1-370.660-137141)
+- Guymon, C., Huff, L. & Lewis, S. L., Factors Influencing Graduating Senior Chemical Engineering Job Offers: Insights From 12-Years of Pre-Graduation Surveys, Chemical Engineering Education Journal, Vol. 59 No. 3 Summer 2025. [Web Link](https://doi.org/10.18260/2-1-370.660-137141)
 
 ## 2024
 <a href="https://peer.asee.org/climate-change-and-kinetics-in-an-undergraduate-laboratory-injection-and-tracking-of-co2-in-a-7-gallon-terrarium"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/ASEE24.png?raw=true' width="700"></a>
