@@ -1,0 +1,12 @@
+To compile run:
+jupyter book build 
+jupyter book init --gh-pages
+
+
+Also push the update to the repository at github
+git add ./*
+git commit -m "commit"
+git push
+
+I couldn't figure out how to update the picture in the primary sidebar but
+ I did get google analytics integrated
