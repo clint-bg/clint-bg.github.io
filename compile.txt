@@ -1,7 +1,9 @@
 To compile run:
 jupyter book build 
-jupyter book init --gh-pages
 
+If you need to rebuild the workflow file deploy.yml then type:
+jupyter book init --gh-pages
+This only needs to happen once I think.
 
 Also push the update to the repository at github
 git add ./*
