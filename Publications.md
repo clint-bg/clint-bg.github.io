@@ -3,6 +3,7 @@
 ## Book
 
 <a href="https://a.co/d/ffq0sum"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/bookimage.png?raw=true' width="200"></a>
+
 Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes, Self Published, 2025. [Web Link](https://a.co/d/ffq0sum)
 
 ## Peer-Reviewed Articles
