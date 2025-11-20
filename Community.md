@@ -11,10 +11,13 @@ The [Explosives Testing Users Group (ETUG)](https://etusersgroup.org/) is a grou
 The [Teaching 4 Learning (T4L)](https://www.byui.edu/teaching-for-learning/) group is a group of faculty and staff at universities in the west that gather together to discuss teaching and learning methodologies.
 
 ## AIChE
-The [American Institute of Chemical Engineers (AIChE)](https://www.aiche.org/) is a professional association for chemical engineers.
+The [American Institute of Chemical Engineers (AIChE)](https://www.aiche.org/) is a professional association for chemical engineers. I mentor a ChemE Car team for the AIChE student chapter at BYU.
+
+# WERC
+The [WERC](https://iee.nmsu.edu/) is an environmental design contest for students to solve real-world problems. Students work to develop a working bench-top prototype, report, cost analysis, presentation, and poster. I mentor a team for this competition.
 
 ## Local Schools
 I have worked with local schools such as the McGillis School in helping to educate future engineers.
 
 ## BYU Chemical Engineering Department
-I get to mentor the ChemE Car club team. I'm also the safety representative for the department.
+I am the safety representative for the department and work with the faculty and staff to ensure a safe working and learning environment for both graduate and undergraduate students.

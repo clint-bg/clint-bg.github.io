@@ -4,6 +4,8 @@
 
 <a href="https://a.co/d/ffq0sum"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/bookimage.png?raw=true' width="200"></a>
 
+Spiritual and physical safety is critical to navigate life at home and at work. This text includes navigation tools to help you and others stay spiritually and physically safe from the perspective of a Christian with experience as a chemical engineer in explosives safety for 15 years. Topics include spiritual safety and ethics, physical safety with process safety information and hazards analysis, and stewardship of our planet. The text is a foundation for a safety, health, and environment course in chemical engineering.
+
 Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes, Self Published, 2025. [Web Link](https://a.co/d/ffq0sum)
 
 ## Peer-Reviewed Articles
