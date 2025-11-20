@@ -13,7 +13,7 @@ The [Teaching 4 Learning (T4L)](https://www.byui.edu/teaching-for-learning/) gro
 ## AIChE
 The [American Institute of Chemical Engineers (AIChE)](https://www.aiche.org/) is a professional association for chemical engineers. I mentor a ChemE Car team for the AIChE student chapter at BYU.
 
-# WERC
+## WERC
 The [WERC](https://iee.nmsu.edu/) is an environmental design contest for students to solve real-world problems. Students work to develop a working bench-top prototype, report, cost analysis, presentation, and poster. I mentor a team for this competition.
 
 ## Local Schools
