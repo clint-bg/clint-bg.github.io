@@ -28,6 +28,13 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 
 See [Google Scholar](https://scholar.google.com/citations?user=p_83EnoAAAAJ&hl=en) for a complete list of publications.
 
+## Apps
+### 2025
+- Guymon, C. (2025), Bioflow Model: A web app of microbe concentration with constrained oxygen delivery, [Web Link](https://bioflow.streamlit.app/).
+### 2024
+- Guymon, C. (2024), verses: A web app tool that lists similar scriptures, [Web Link](https://verses.streamlit.app/).
+- Guymon, C. (2024), Camera Data Logger: Ab iOS app that logs data on displayed on a screen, [Web Link](https://apps.apple.com/us/app/camera-data-logger/id6737197434).
+
 ## Presentations
 
 ### 2025
