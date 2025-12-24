@@ -3,10 +3,10 @@
 ## Book
 
 ```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/bookimage.png?raw=true
-:alt: Front cover of book
+:alt: "Front cover of book"
 :width: 200px
-:align: left
-target: https://a.co/d/ffq0sum
+:align: "left"
+target: "https://a.co/d/ffq0sum"
 ```
 
 Spiritual and physical safety is critical to navigate life at home and at work. This text includes navigation tools to help you and others stay spiritually and physically safe from the perspective of a Christian with experience as a chemical engineer in explosives safety for 15 years. Topics include spiritual safety and ethics, physical safety with process safety information and hazards analysis, and stewardship of our planet. The text is a foundation for a safety, health, and environment course in chemical engineering.
@@ -17,17 +17,32 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 
 ### 2025
 
-<a href="https://journals.flvc.org/cee/article/view/137141"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/CEE.png?raw=true' width="700"></a>
+```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/CEE.png?raw=true
+:alt: "CEE Publication Cover"
+:width: 700px
+:align: "left"
+:target: "https://journals.flvc.org/cee/article/view/137141"
+```
 
 - Guymon, C., Huff, L. & Lewis, S. L., Factors Influencing Graduating Senior Chemical Engineering Job Offers: Insights From 12-Years of Pre-Graduation Surveys, Chemical Engineering Education Journal, Vol. 59 No. 3 Summer 2025. [Web Link](https://doi.org/10.18260/2-1-370.660-137141)
 
 ### 2024
-<a href="https://peer.asee.org/climate-change-and-kinetics-in-an-undergraduate-laboratory-injection-and-tracking-of-co2-in-a-7-gallon-terrarium"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/ASEE24.png?raw=true' width="700"></a>
+```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/ASEE24.png?raw=true
+:alt: "ASEE Publication Cover"
+:width: 700px
+:align: "left"
+:target: "https://peer.asee.org/climate-change-and-kinetics-in-an-undergraduate-laboratory-injection-and-tracking-of-co2-in-a-7-gallon-terrarium"
+
 
 - Guymon, C., & Tuft, J. R. (2024, June), Climate Change and Kinetics in an Undergraduate Laboratory: Injection and Tracking of CO2 in a 7 Gallon Terrarium Paper presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. [Web Link](https://doi.org/10.18260/1-2--48465)
 
 ### 2023
-<a href="https://www.mdpi.com/2448468/"><img src='https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/fireimg.png?raw=true' width="700"></a>
+```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/fireimg.png?raw=true
+:alt: "Fire Publication Cover"
+:width: 700px
+:align: "left"
+:target: "https://www.mdpi.com/2448468/"
+```
 
 - Guymon, C.; Liu, M.; Covino, J., "Recommended Separation Distances for 1.3 Ammunition and Explosives," Fire 2023, 6, 331. https://doi.org/10.3390/fire6090331
 
