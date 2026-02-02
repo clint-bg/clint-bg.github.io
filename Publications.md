@@ -26,13 +26,36 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 
 - Guymon, C., Huff, L. & Lewis, S. L., Factors Influencing Graduating Senior Chemical Engineering Job Offers: Insights From 12-Years of Pre-Graduation Surveys, Chemical Engineering Education Journal, Vol. 59 No. 3 Summer 2025. [Web Link](https://doi.org/10.18260/2-1-370.660-137141)
 
-<div class="viz-container" style="width: 100%; height: 600px; overflow: hidden;">
-    <iframe src="https://public.tableau.com/views/BYUChemE/CBEGrads?:embed=y&:showVizHome=no&:mobile=y"
-            width="100%"
-            height="600"
-            style="border: none;">
-    </iframe>
-</div>
+<div class='tableauPlaceholder' id='viz1770002533737' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='CBE Grads' src='https://public.tableau.com/static/images/WK/WK3H88B94/1_rss.png' style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> 
+        <param name='path' value='shared/WK3H88B94' /> 
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/WK/WK3H88B94/1.png' /> 
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+    </object>
+</div>                
+
+<script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1770002533737');                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    vizElement.style.width='100%';
+    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ### 2024
 ```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/ASEE24.png?raw=true
@@ -40,7 +63,7 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 :width: 700px
 :align: "left"
 :target: "https://peer.asee.org/climate-change-and-kinetics-in-an-undergraduate-laboratory-injection-and-tracking-of-co2-in-a-7-gallon-terrarium"
-
+```
 
 - Guymon, C., & Tuft, J. R. (2024, June), Climate Change and Kinetics in an Undergraduate Laboratory: Injection and Tracking of CO2 in a 7 Gallon Terrarium Paper presented at 2024 ASEE Annual Conference & Exposition, Portland, Oregon. [Web Link](https://doi.org/10.18260/1-2--48465)
 
