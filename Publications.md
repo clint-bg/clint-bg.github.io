@@ -26,9 +26,9 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 
 - Guymon, C., Huff, L. & Lewis, S. L., Factors Influencing Graduating Senior Chemical Engineering Job Offers: Insights From 12-Years of Pre-Graduation Surveys, Chemical Engineering Education Journal, Vol. 59 No. 3 Summer 2025. [Web Link](https://doi.org/10.18260/2-1-370.660-137141)
 
-:::{iframe} https://public.tableau.com/shared/WK3H88B94?:display_count=n&:origin=viz_share_link
+:::{iframe} https://public.tableau.com/views/BYUChemE/CBEGrads?:embed=y&:showVizHome=no&:toolbar=yes
 :width: 100%
-:title: MyST Example Video
+:height: 600px
 :::
 
 ### 2024
