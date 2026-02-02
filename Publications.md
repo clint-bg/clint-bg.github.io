@@ -17,21 +17,10 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 
 ### 2025
 
-```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/CEE.png?raw=true
-:alt: "CEE Publication Cover"
-:width: 700px
-:align: "left"
-:target: "https://journals.flvc.org/cee/article/view/137141"
-```
+[![Click to open interactive CBE Grads Dashboard](https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/CEE.png?raw=true)](https://public.tableau.com/views/BYUChemE/CBEGrads?:embed=y)
+Click the image above to explore the interactive CBE Grads dashboard on Tableau Public.
 
 - Guymon, C., Huff, L. & Lewis, S. L., Factors Influencing Graduating Senior Chemical Engineering Job Offers: Insights From 12-Years of Pre-Graduation Surveys, Chemical Engineering Education Journal, Vol. 59 No. 3 Summer 2025. [Web Link](https://doi.org/10.18260/2-1-370.660-137141)
-
-[![Click to open interactive CBE Grads Dashboard](https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/CEE.png?raw=true)](https://public.tableau.com/views/BYUChemE/CBEGrads?:embed=y)
-
-
-https://public.tableau.com/views/BYUChemE/CBEGrads?:embed=y:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-*Click the image above to explore the interactive CBE Grads dashboard on Tableau Public.*
 
 ### 2024
 ```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/ASEE24.png?raw=true
