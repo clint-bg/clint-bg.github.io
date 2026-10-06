@@ -21,6 +21,7 @@ project:
     - title: Resources
       children:
         - file: Statistics.ipynb
+        - file: CoursePlanning.md
     - file: links.md
 
 site:
