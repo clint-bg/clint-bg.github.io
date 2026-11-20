@@ -51,13 +51,18 @@ Guymon, C. Foundations of Spiritual and Physical Safety: with Chemical Processes
 See [Google Scholar](https://scholar.google.com/citations?user=p_83EnoAAAAJ&hl=en) for a complete list of publications.
 
 ## Apps
+
 ### 2025
 - Guymon, C. (2025), Bioflow Model: A web app of microbe concentration with constrained oxygen delivery, [Web Link](https://bioflow.streamlit.app/).
 ### 2024
 - Guymon, C. (2024), verses: A web app tool that lists similar scriptures, [Web Link](https://verses.streamlit.app/).
-- Guymon, C. (2024), Camera Data Logger: Ab iOS app that logs data on displayed on a screen, [Web Link](https://apps.apple.com/us/app/camera-data-logger/id6737197434).
+- Guymon, C. (2024), Camera Data Logger: An iOS app that logs data on displayed on a screen, [Web Link](https://apps.apple.com/us/app/camera-data-logger/id6737197434).
 
 ## Presentations
+
+### 2026
+- Grace Heninger, Dallin Heninger, and Clint Guymon (2026, April), "Hydrogen Blast Effects and Analysis from Small-scale Testing with Eggshells," 2026 AIChE and CCPS Meeting, Houston, Texas.
+- Jacob Purser, Isaac Matthews, John Thomas, and Clint Guymon (2026, November), "Mixing Time Correlations for non-Vortex Mixing in an Unbaffled Vessel," 2026 AIChE Annual Meeting, Minneapolis, Minnesota.
 
 ### 2025
 - Carter Richards, Clint Guymon, and Rubin McDougal (2025, November), "Investigating an Unknown Phenomenon of Flash Point Depression," 2025 AIChE Annual Student Conference, Sheraton Boston Hotel, Boston, Massachusetts.

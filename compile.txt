@@ -12,3 +12,14 @@ git push
 
 I couldn't figure out how to update the picture in the primary sidebar but
  I did get google analytics integrated
+
+
+ Using Antigravity IDE, I did this:
+ npm install -g mystmd
+
+ myst build --html
+
+
+git add .
+git commit -m "Update content and build with MyST"
+git push origin main
