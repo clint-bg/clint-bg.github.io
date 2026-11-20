@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://pre.render/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://pre.render</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/coursestaught</loc>
+    <loc>http://pre.render/coursestaught</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/publications</loc>
+    <loc>http://pre.render/publications</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/tipice</loc>
+    <loc>http://pre.render/tipice</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/community</loc>
+    <loc>http://pre.render/community</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/statistics</loc>
+    <loc>http://pre.render/statistics</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/courseplanning</loc>
+    <loc>http://pre.render/courseplanning</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/links</loc>
+    <loc>http://pre.render/links</loc>
   </url>
 </urlset>
