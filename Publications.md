@@ -2,7 +2,7 @@
 
 ## Book
 
-```{image} https://github.com/clint-bg/clint-bg.github.io/blob/main/activities/support/bookimage.png?raw=true
+```{image} activities/support/bookimage.png
 :alt: "Front cover of book"
 :width: 200px
 :align: "left"
